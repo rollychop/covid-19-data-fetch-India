@@ -33,7 +33,7 @@ fun main() {
                 mTime
         ))
     }
-    val fileName = "covid_19_cases_as_per_${getCurrentDate()}_${getCurrentTime()}.json"
+    val fileName = "covid_19_cases_as_per_${getCurrentDate()}.json"
     println(createFile(fileName))
     println(writeToFile(fileName, Gson().toJson(covidCases)))
 }

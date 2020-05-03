@@ -17,7 +17,7 @@ object Utils {
 
     fun getCurrentTime(): String {
         val current = LocalDateTime.now()
-        val mTimeFormat = DateTimeFormatter.ofPattern("HH_mm_ss")
+        val mTimeFormat = DateTimeFormatter.ofPattern("HH:mm:ss")
         return current.format(mTimeFormat)
     }
     fun createFile(fileName: String): String? {
