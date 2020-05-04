@@ -14,8 +14,8 @@ fun main() {
             .get()
     val covidCases = mutableListOf<CovidCases>()
     val dateTime = doc.select(".information_row > .info_title > span").text()
-    var mDate = dateTime.substring(dateTime.indexOf(":") + 1, dateTime.indexOf(","))
-    var mTime = dateTime.substring(dateTime.indexOf(",") + 1)
+    var mDate = dateTime.substring(dateTime.indexOf(":") + 1, dateTime.indexOf(",")).trim()
+    var mTime = dateTime.substring(dateTime.indexOf(",") + 1).trim()
     if (mDate.isEmpty() && mTime.isEmpty()) {
         mDate = getCurrentDate()
         mTime = getCurrentTime()

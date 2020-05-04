@@ -1,0 +1,290 @@
+[
+  {
+    "state_name": "Andaman and Nicobar",
+    "confirm_cases": "33",
+    "active_cases": "1",
+    "total_recovered": "32",
+    "total_deaths": "0",
+    "till_date": "04 May 2020",
+    "till_time": "17:00 GMT+5:30"
+  },
+  {
+    "state_name": "Andhra Pradesh",
+    "confirm_cases": "1583",
+    "active_cases": "1062",
+    "total_recovered": "488",
+    "total_deaths": "33",
+    "till_date": "04 May 2020",
+    "till_time": "17:00 GMT+5:30"
+  },
+  {
+    "state_name": "Arunachal Pradesh",
+    "confirm_cases": "1",
+    "active_cases": "0",
+    "total_recovered": "1",
+    "total_deaths": "0",
+    "till_date": "04 May 2020",
+    "till_time": "17:00 GMT+5:30"
+  },
+  {
+    "state_name": "Assam",
+    "confirm_cases": "43",
+    "active_cases": "10",
+    "total_recovered": "32",
+    "total_deaths": "1",
+    "till_date": "04 May 2020",
+    "till_time": "17:00 GMT+5:30"
+  },
+  {
+    "state_name": "Bihar",
+    "confirm_cases": "503",
+    "active_cases": "374",
+    "total_recovered": "125",
+    "total_deaths": "4",
+    "till_date": "04 May 2020",
+    "till_time": "17:00 GMT+5:30"
+  },
+  {
+    "state_name": "Chandigarh",
+    "confirm_cases": "94",
+    "active_cases": "75",
+    "total_recovered": "19",
+    "total_deaths": "0",
+    "till_date": "04 May 2020",
+    "till_time": "17:00 GMT+5:30"
+  },
+  {
+    "state_name": "Chhattisgarh",
+    "confirm_cases": "57",
+    "active_cases": "21",
+    "total_recovered": "36",
+    "total_deaths": "0",
+    "till_date": "04 May 2020",
+    "till_time": "17:00 GMT+5:30"
+  },
+  {
+    "state_name": "Delhi",
+    "confirm_cases": "4549",
+    "active_cases": "3123",
+    "total_recovered": "1362",
+    "total_deaths": "64",
+    "till_date": "04 May 2020",
+    "till_time": "17:00 GMT+5:30"
+  },
+  {
+    "state_name": "Goa",
+    "confirm_cases": "7",
+    "active_cases": "0",
+    "total_recovered": "7",
+    "total_deaths": "0",
+    "till_date": "04 May 2020",
+    "till_time": "17:00 GMT+5:30"
+  },
+  {
+    "state_name": "Gujarat",
+    "confirm_cases": "5428",
+    "active_cases": "4096",
+    "total_recovered": "1042",
+    "total_deaths": "290",
+    "till_date": "04 May 2020",
+    "till_time": "17:00 GMT+5:30"
+  },
+  {
+    "state_name": "Haryana",
+    "confirm_cases": "442",
+    "active_cases": "192",
+    "total_recovered": "245",
+    "total_deaths": "5",
+    "till_date": "04 May 2020",
+    "till_time": "17:00 GMT+5:30"
+  },
+  {
+    "state_name": "Himachal Pradesh",
+    "confirm_cases": "40",
+    "active_cases": "5",
+    "total_recovered": "34",
+    "total_deaths": "1",
+    "till_date": "04 May 2020",
+    "till_time": "17:00 GMT+5:30"
+  },
+  {
+    "state_name": "Jammu and Kashmir",
+    "confirm_cases": "701",
+    "active_cases": "406",
+    "total_recovered": "287",
+    "total_deaths": "8",
+    "till_date": "04 May 2020",
+    "till_time": "17:00 GMT+5:30"
+  },
+  {
+    "state_name": "Jharkhand",
+    "confirm_cases": "115",
+    "active_cases": "90",
+    "total_recovered": "22",
+    "total_deaths": "3",
+    "till_date": "04 May 2020",
+    "till_time": "17:00 GMT+5:30"
+  },
+  {
+    "state_name": "Karnataka",
+    "confirm_cases": "614",
+    "active_cases": "296",
+    "total_recovered": "293",
+    "total_deaths": "25",
+    "till_date": "04 May 2020",
+    "till_time": "17:00 GMT+5:30"
+  },
+  {
+    "state_name": "Kerala",
+    "confirm_cases": "500",
+    "active_cases": "95",
+    "total_recovered": "401",
+    "total_deaths": "4",
+    "till_date": "04 May 2020",
+    "till_time": "17:00 GMT+5:30"
+  },
+  {
+    "state_name": "Ladakh",
+    "confirm_cases": "41",
+    "active_cases": "24",
+    "total_recovered": "17",
+    "total_deaths": "0",
+    "till_date": "04 May 2020",
+    "till_time": "17:00 GMT+5:30"
+  },
+  {
+    "state_name": "Maharashtra",
+    "confirm_cases": "12974",
+    "active_cases": "10311",
+    "total_recovered": "2115",
+    "total_deaths": "548",
+    "till_date": "04 May 2020",
+    "till_time": "17:00 GMT+5:30"
+  },
+  {
+    "state_name": "Manipur",
+    "confirm_cases": "2",
+    "active_cases": "0",
+    "total_recovered": "2",
+    "total_deaths": "0",
+    "till_date": "04 May 2020",
+    "till_time": "17:00 GMT+5:30"
+  },
+  {
+    "state_name": "Meghalaya",
+    "confirm_cases": "12",
+    "active_cases": "11",
+    "total_recovered": "0",
+    "total_deaths": "1",
+    "till_date": "04 May 2020",
+    "till_time": "17:00 GMT+5:30"
+  },
+  {
+    "state_name": "Mizoram",
+    "confirm_cases": "1",
+    "active_cases": "1",
+    "total_recovered": "0",
+    "total_deaths": "0",
+    "till_date": "04 May 2020",
+    "till_time": "17:00 GMT+5:30"
+  },
+  {
+    "state_name": "Madhya Pradesh",
+    "confirm_cases": "2846",
+    "active_cases": "1892",
+    "total_recovered": "798",
+    "total_deaths": "156",
+    "till_date": "04 May 2020",
+    "till_time": "17:00 GMT+5:30"
+  },
+  {
+    "state_name": "Odisha",
+    "confirm_cases": "162",
+    "active_cases": "105",
+    "total_recovered": "56",
+    "total_deaths": "1",
+    "till_date": "04 May 2020",
+    "till_time": "17:00 GMT+5:30"
+  },
+  {
+    "state_name": "Puducherry",
+    "confirm_cases": "8",
+    "active_cases": "3",
+    "total_recovered": "5",
+    "total_deaths": "0",
+    "till_date": "04 May 2020",
+    "till_time": "17:00 GMT+5:30"
+  },
+  {
+    "state_name": "Punjab",
+    "confirm_cases": "1102",
+    "active_cases": "964",
+    "total_recovered": "117",
+    "total_deaths": "21",
+    "till_date": "04 May 2020",
+    "till_time": "17:00 GMT+5:30"
+  },
+  {
+    "state_name": "Rajasthan",
+    "confirm_cases": "2886",
+    "active_cases": "1459",
+    "total_recovered": "1356",
+    "total_deaths": "71",
+    "till_date": "04 May 2020",
+    "till_time": "17:00 GMT+5:30"
+  },
+  {
+    "state_name": "Tamil Nadu",
+    "confirm_cases": "3023",
+    "active_cases": "1614",
+    "total_recovered": "1379",
+    "total_deaths": "30",
+    "till_date": "04 May 2020",
+    "till_time": "17:00 GMT+5:30"
+  },
+  {
+    "state_name": "Telengana",
+    "confirm_cases": "1082",
+    "active_cases": "563",
+    "total_recovered": "490",
+    "total_deaths": "29",
+    "till_date": "04 May 2020",
+    "till_time": "17:00 GMT+5:30"
+  },
+  {
+    "state_name": "Tripura",
+    "confirm_cases": "16",
+    "active_cases": "14",
+    "total_recovered": "2",
+    "total_deaths": "0",
+    "till_date": "04 May 2020",
+    "till_time": "17:00 GMT+5:30"
+  },
+  {
+    "state_name": "Uttar Pradesh",
+    "confirm_cases": "2645",
+    "active_cases": "1848",
+    "total_recovered": "754",
+    "total_deaths": "43",
+    "till_date": "04 May 2020",
+    "till_time": "17:00 GMT+5:30"
+  },
+  {
+    "state_name": "Uttarakhand",
+    "confirm_cases": "60",
+    "active_cases": "21",
+    "total_recovered": "39",
+    "total_deaths": "0",
+    "till_date": "04 May 2020",
+    "till_time": "17:00 GMT+5:30"
+  },
+  {
+    "state_name": "West Bengal",
+    "confirm_cases": "963",
+    "active_cases": "777",
+    "total_recovered": "151",
+    "total_deaths": "35",
+    "till_date": "04 May 2020",
+    "till_time": "17:00 GMT+5:30"
+  }
+]
